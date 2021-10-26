@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vechicles.solution", "vechicles.solution\vechicles.solution.csproj", "{A9B9B4C8-98B7-4066-AC48-3131C26A0A1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9B9B4C8-98B7-4066-AC48-3131C26A0A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B9B4C8-98B7-4066-AC48-3131C26A0A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B9B4C8-98B7-4066-AC48-3131C26A0A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B9B4C8-98B7-4066-AC48-3131C26A0A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5EA2E19-8FDE-4421-B29C-9FBA9F13BD90}
+	EndGlobalSection
+EndGlobal
